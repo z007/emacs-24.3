@@ -10,6 +10,7 @@
     * [2](http://www.emacswiki.org/emacs/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)
     * [3](http://www.cbi.pku.edu.cn/chinese/documents/csdoc/emacs/)
     * [4](http://www.ibm.com/developerworks/cn/education/linux/l-emacs/l-emacs.html)
+    * [5](http://www.jianshu.com/p/b4cf683c25f3)
   
 # emacs 环境配置 插件安装
 ## emacs environment configuration plug-in installation
