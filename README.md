@@ -3,7 +3,9 @@
   * [Download](https://ftp.gnu.org/gnu/emacs/windows/)
   * [Guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
     * [HUB](http://blog.csdn.net/PfanAya/article/category/784884)  --CSDN 解决方案
+    
     * [HUB2](http://www.cnblogs.com/robertzml/tag/Emacs/)         -- 基础教程
+    
      ```
      C-x 1	关闭其它窗口
      C-x 2	垂直拆分窗口
