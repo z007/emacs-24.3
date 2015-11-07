@@ -32,11 +32,14 @@
 
 ## emacs environment configuration plug-in installation
 * [emacs game](http://www.admin10000.com/document/4013.html)
+* http://www.emacswiki.org/emacs/CategoryGames
 ```
 同时按下Esc键和x(执行)，然后输入你想玩的游戏的名字：
 
-Esc-x
+Esc-x OR M-x
 pong 
+
+ 5 M-x hanoi
 　　要退出Emacs的话，同时按下ctrl键和x，然后是ctrl+c：
 
 Ctrl-x
