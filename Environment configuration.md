@@ -12,7 +12,7 @@ D:\emacs\.emacs
 
 (setenv "HOME" "D:/emacs")
 (setenv "PATH" "D:/emacs")
-
+;;http://blog.csdn.net/xiaolongwang2010/article/details/8247666 luanyong
 ;;set the default file path c-x c-f find  filed
 (setq command-line-default-directory "c:/" )
 
